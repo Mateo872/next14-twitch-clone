@@ -46,7 +46,6 @@ export const Header = ({
           username={hostName}
           size="lg"
           isLive={isLive}
-          showBadge
         />
         <div className="space-y-1">
           <div className="flex items-center gap-x-2">
